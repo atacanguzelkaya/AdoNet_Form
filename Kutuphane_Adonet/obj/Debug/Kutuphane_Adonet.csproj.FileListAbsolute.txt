@@ -1,0 +1,62 @@
+C:\Users\Ata\source\repos\Kutuphane_Adonet\Kutuphane_Adonet\bin\Debug\Kutuphane_Adonet.exe.config
+C:\Users\Ata\source\repos\Kutuphane_Adonet\Kutuphane_Adonet\bin\Debug\Kutuphane_Adonet.exe
+C:\Users\Ata\source\repos\Kutuphane_Adonet\Kutuphane_Adonet\bin\Debug\Kutuphane_Adonet.pdb
+C:\Users\Ata\source\repos\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.AssemblyReference.cache
+C:\Users\Ata\source\repos\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ata\source\repos\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.Properties.Resources.resources
+C:\Users\Ata\source\repos\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.GenerateResource.cache
+C:\Users\Ata\source\repos\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.CoreCompileInputs.cache
+C:\Users\Ata\source\repos\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.exe
+C:\Users\Ata\source\repos\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.pdb
+C:\Users\Ata\source\repos\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.GirisPaneli.resources
+C:\Users\Ata\source\repos\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.IslemPaneli.resources
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.AssemblyReference.cache
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.GirisPaneli.resources
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.IslemPaneli.resources
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.Properties.Resources.resources
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.GenerateResource.cache
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.CoreCompileInputs.cache
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.exe
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.pdb
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\bin\Debug\Kutuphane_Adonet.exe.config
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\bin\Debug\Kutuphane_Adonet.exe
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\bin\Debug\Kutuphane_Adonet.pdb
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.guncelle.resources
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.sil.resources
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.kitapEkle.resources
+C:\Users\Berke Kaan\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.kullaniciEkle.resources
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\bin\Debug\Kutuphane_Adonet.exe.config
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\bin\Debug\Kutuphane_Adonet.exe
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\bin\Debug\Kutuphane_Adonet.pdb
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.AssemblyReference.cache
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.GirisPaneli.resources
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.guncelle.resources
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.IslemPaneli.resources
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.kitapEkle.resources
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.kullaniciEkle.resources
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.Properties.Resources.resources
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.sil.resources
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.GenerateResource.cache
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.CoreCompileInputs.cache
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.exe
+C:\Users\Ata\Desktop\Kutuphane_Adonet\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.pdb
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\bin\Debug\Kutuphane_Adonet.exe.config
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\bin\Debug\Kutuphane_Adonet.exe
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\bin\Debug\Kutuphane_Adonet.pdb
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.AssemblyReference.cache
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.GirisPaneli.resources
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.IslemPaneli.resources
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.kitapEkle.resources
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.kullaniciEkle.resources
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.Properties.Resources.resources
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.GenerateResource.cache
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.csproj.CoreCompileInputs.cache
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.exe
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.pdb
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.KitapSil.resources
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.KullaniciGuncelle.resources
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.KitapGuncelle.resources
+C:\Users\Ata\Desktop\Kutuphane_AdonetSql\Kutuphane_Adonet\obj\Debug\Kutuphane_Adonet.KullaniciSil.resources
